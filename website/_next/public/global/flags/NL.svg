@@ -1,0 +1,12 @@
+<svg width="32" height="22" viewBox="0 0 32 22" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M3 0H29C30.6569 0 32 1.34315 32 3V19C32 20.6569 30.6569 22 29 22H3C1.34315 22 0 20.6569 0 19V3C0 1.34315 1.34315 0 3 0Z" fill="#178A9E"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M3 0H29C30.6569 0 32 1.34315 32 3V19C32 20.6569 30.6569 22 29 22H3C1.34315 22 0 20.6569 0 19V3C0 1.34315 1.34315 0 3 0Z" fill="white"/>
+<mask id="mask0_2196_28679" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="32" height="22">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M3 0H29C30.6569 0 32 1.34315 32 3V19C32 20.6569 30.6569 22 29 22H3C1.34315 22 0 20.6569 0 19V3C0 1.34315 1.34315 0 3 0Z" fill="white"/>
+</mask>
+<g mask="url(#mask0_2196_28679)">
+<path d="M0 15H32V21.125C32 21.6082 31.5523 22 31 22H1C0.447715 22 0 21.6082 0 21.125V15Z" fill="#154289"/>
+<path d="M1 0H31C31.5523 0 32 0.391751 32 0.875V7H0V0.875C0 0.391751 0.447715 0 1 0Z" fill="#BD0020"/>
+<path d="M3 0.5H29C30.3807 0.5 31.5 1.61929 31.5 3V19C31.5 20.3807 30.3807 21.5 29 21.5H3C1.61929 21.5 0.5 20.3807 0.5 19V3C0.5 1.61929 1.61929 0.5 3 0.5Z" stroke="#222E3A" stroke-opacity="0.25"/>
+</g>
+</svg>

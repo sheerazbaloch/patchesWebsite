@@ -1,0 +1,21 @@
+<svg width="32" height="22" viewBox="0 0 32 22" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M3 0H29C30.6569 0 32 1.34315 32 3V19C32 20.6569 30.6569 22 29 22H3C1.34315 22 0 20.6569 0 19V3C0 1.34315 1.34315 0 3 0Z" fill="#178A9E"/>
+<path d="M3 0H29C30.6569 0 32 1.34315 32 3V19C32 20.6569 30.6569 22 29 22H3C1.34315 22 0 20.6569 0 19V3C0 1.34315 1.34315 0 3 0Z" fill="#00247D"/>
+<mask id="mask0_2174_23312" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="32" height="22">
+<path d="M3 0H29C30.6569 0 32 1.34315 32 3V19C32 20.6569 30.6569 22 29 22H3C1.34315 22 0 20.6569 0 19V3C0 1.34315 1.34315 0 3 0Z" fill="white"/>
+</mask>
+<g mask="url(#mask0_2174_23312)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M-1.37334 -3L-3 1.24875L11.9333 11L-3 20.7512L-1.37334 25L16 13.6555L33.3733 25L35 20.7512L20.0667 11L35 1.24875L33.3733 -3L16 8.34453L-1.37334 -3ZM16 8.34453L11.9333 11L16 13.6555L20.0667 11L16 8.34453Z" fill="white"/>
+<mask id="mask1_2174_23312" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="32" height="22">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M16 10.6667H32V21.3333L16 10.6667ZM16 10.6667V21.3333H0L16 10.6667ZM16 10.6667H0V0L16 10.6667ZM16 10.6667V0H32L16 10.6667Z" fill="white"/>
+</mask>
+<g mask="url(#mask1_2174_23312)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M0.477493 -1.27148L-0.476562 1.27266L13.6153 10.6673L-0.476562 20.0618L0.477493 22.606L16.0005 12.2573L31.5234 22.606L32.4775 20.0618L18.3856 10.6673L32.4775 1.27266L31.5234 -1.27148L16.0005 9.07716L0.477493 -1.27148ZM16.0005 9.07716L13.6153 10.6673L16.0005 12.2573L18.3856 10.6673L16.0005 9.07716Z" fill="#CF142B"/>
+</g>
+<path d="M13 0H19V22H13V0Z" fill="white"/>
+<path d="M3 0.5H29C30.3807 0.5 31.5 1.61929 31.5 3V19C31.5 20.3807 30.3807 21.5 29 21.5H3C1.61929 21.5 0.5 20.3807 0.5 19V3C0.5 1.61929 1.61929 0.5 3 0.5Z" stroke="#222E3A" stroke-opacity="0.25"/>
+<path d="M0 14V8H32V14H0Z" fill="white"/>
+<path d="M-2 13V9H34V13H-2Z" fill="#CF142B"/>
+<path d="M14.2002 -1H17.8002V23H14.2002V-1Z" fill="#CF142B"/>
+</g>
+</svg>
